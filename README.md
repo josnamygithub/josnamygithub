@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josnamygithub
-- 👀 I’m interested in Java Spring Boot
+- 👀 I’m interested in Java Spring Boot and Angular 
 - 🌱 I’m currently learning ... Microservices by using Spring boot 
 
 
